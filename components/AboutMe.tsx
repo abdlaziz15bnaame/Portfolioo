@@ -56,7 +56,7 @@ const AboutMe = () => {
                         data-aos-anchor-placement="top-center"
                         className='p-6 text-center bg-yellow-600'
                         >
-                        <p className='text-[50px] text-black font-bold'>2</p>
+                        <p className='text-[50px] text-black font-bold'>2</p> 
                         <p className='text-[20px] text-black font-600'>
                             Years experience</p>
                     </div>
